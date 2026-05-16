@@ -3,8 +3,7 @@
 using namespace std;
 
 /******************************************
-  Link:
-https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+  Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
   Runtime: 100.0%
   Memory: 97.70%
 ******************************************/
